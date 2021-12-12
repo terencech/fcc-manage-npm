@@ -13,5 +13,6 @@
 	},
 	"author": "Terence Chan",
 	"description": "A description for this project",
-	"keywords": [ "freecodecamp", "npm" ]
+	"keywords": [ "freecodecamp", "npm" ],
+	"license": "MIT"
 }
